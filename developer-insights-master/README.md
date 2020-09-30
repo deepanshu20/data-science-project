@@ -45,7 +45,7 @@ Change the code,
  The 'png' is added here to display plots on github. The images produced with plotly are of high quality, removing png from the code may result the notebook size increase to 100 mb+.
 
 ## Author
-Pratik Kumar : [LinkedIn](https://www.linkedin.com/in/pratik-kumar98/) 
+Pratik Kumar : [LinkedIn](https://www.linkedin.com/in/deepanshu-sharma-3998b616a/) 
 
 # UPDATE !
 - The 2020 developer survey by StackOverflow has been released,  https://insights.stackoverflow.com/survey/2020 
