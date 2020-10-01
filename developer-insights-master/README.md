@@ -23,7 +23,7 @@ Link: https://insights.stackoverflow.com/survey/
 2. Languages Distribution for 2018-2019.
 ![alt text](https://github.com/pr2tik1/developer-insights/blob/master/img/languages.png?raw=true)
 
-Find rest in the [notebook](https://github.com/pr2tik1/developer-insights/blob/master/developer-insights.ipynb).
+Find rest in the [notebook](https://github.com/deepanshu20/data-science-project/blob/master/developer-insights-master/developer-insights.ipynb).
 
 ## Usage
 
