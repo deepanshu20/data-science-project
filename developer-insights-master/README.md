@@ -30,7 +30,7 @@ Find rest in the [notebook](https://github.com/deepanshu20/data-science-project/
 ### *To install*
 Download directly the zip file or type this in terminal,
 ```
-git clone https://github.com/pr2tik1/developer-insights.git
+git clone https://github.com/deepanshu20/data-science-project.git
 ```
 
 ### *To visualize and interact*
